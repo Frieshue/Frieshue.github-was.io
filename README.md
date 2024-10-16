@@ -1,4 +1,3 @@
-# Frieshue.github-was.io 
 website/
 │
 ├── index.html        # Homepage
